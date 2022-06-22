@@ -1,2 +1,2 @@
 # perusahaan.github.io
-Halaman website perusahaan amellia veronica agustin
+Halaman web perusahaan amellia veronica agustin
